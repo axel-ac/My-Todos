@@ -12,7 +12,7 @@ find-the-number-game(folder)
 Project-gif
 ![My-Todos](https://user-images.githubusercontent.com/102467587/221031138-704f042d-25e6-4afe-9d3e-49aa7bf92a99.gif)
 ## Project-link
-
+https://vanilla-js-my-todos.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML 
 - CSS
